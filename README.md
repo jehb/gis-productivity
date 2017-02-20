@@ -64,3 +64,8 @@ I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is m
 ### Working with Vagrant
 
 * Creating a base box: https://www.vagrantup.com/docs/boxes/base.html
+
+### Image manipulation with Python
+
+* [Using Python to find corrupted images](https://opensource.com/article/17/2/python-tricks-artists)
+* [Getting started with Python scripting in Scribus](https://opensource.com/life/16/10/python-scripting-scribus)
