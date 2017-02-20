@@ -4,27 +4,33 @@ This repository is for keeping track of various things related to [my talk](http
 
 The talk was originally pitched as a modification to the talk given by me and Jen Wike Huger at All Things Open in 2016, entitled [Open Source Productivity Hacks](https://github.com/jehb/productivity-hacks). It has since diverged pretty significantly from that presentation, but I'm linking it here in case you'd like to see those slides or have a follow-up that might be better answered there.
 
+## The contents
+
+* README.md: You're reading it now. This is an outline of my talk.
+
+## The premise
+
+I'm a weekend warrior when it comes to GIS. I spend a lot of time in my day job doing analytics and automation, but most of it doesn't have a geospatial component. My GIS work is primarily on a volunteer basis with local groups I volunteer with. So I need to be able to get up and running on projects pretty quickly. It's also important to be able to figure out what I did several weeks ago, since I'm only able to work on projects sporadically. So I try, as much as feasible, to:
+
+* Define all of the settings, processes, and the infrastructure itself in code.
+* Document well, as I go, and keep a good system for organizing my work.
+* Save time by trying to think about ways to make solutions replicable.
+* Use version control and good backups, because I probably will forget why I did something.
+
 ## Tools I use
 
-I'm a weekend warrior when it comes to GIS. I spend a lot of time in my day job doing analytics and automation, but most of it doesn't have a geospatial component.
+I don't use Windows, so no, I don't use ArcGIS. I did use Esri products a great deal in grad school, but haven't since. I do most of my work in [QGIS](http://www.qgis.org/en/site/), and occasionally in [GRASS](https://grass.osgeo.org/). There are a lot of people who know a lot more about QGIS and GRASS than I do, so I'll defer to them. This is not a talk about QGIS or GRASS.
 
-* vim (or a text editor of your choosing)
-* ImageMagick
-* A chatbot
+I do, however, use a lot of other open source tools in my GIS workflow, and I thought I'd share some of them with you. Here's a partial list:
+
+* Vim (substitute a text editor of your choosing here)
 * Docker
 * Vagrant
-* ImageMagick
-* Command line CSV manipulation
+* ImageMagick/GraphicsMagick, PIL, ffmpeg (command line image manipulation)
+* Command line TSV/CSV manipulation tools
 * Node-RED
 * Jupyter notebooks
-
-## Why hack your productivity?
-
-Tools are changing fast. In just a couple of years, whatever tool you're using today is almost guaranteed to be obsolete. So what do you do?
-
-Focus on the processes, not just the tools.
-
-So we're going to take a whirlwind tour of a bunch of the tools I use, but again, it's not about the tools, it's about applying concepts as broadly as you can. So while I'm a tool geek, don't let me get caught up in the tools themselves.
+* A chatbot (Because I sometimes work with other people, but mostly because it's mildly entertaining).
 
 ## Pick a sample spot
 
