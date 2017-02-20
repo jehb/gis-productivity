@@ -8,16 +8,16 @@ The talk was originally pitched as a modification to the talk given by me and Je
 
 This is not a finished product. It never will be. There will always be new things to add and update. Here are some things I hope to do before I present this:
 
-[ ] Create a jupyter notebook script to download the demo data.
-[ ] Create vagrant slides.
-[ ] Think about what NodeRed examples to include.
-[ ] Is there an Inkscape automation article to include?
-[ ] Look through to see if there are any other conversion tools to list.
-[ ] Go through the full list of listicles, alternatives, etc. on Opensource.com for related content.
-[ ] Go through my Chrome bookmarks and add anything here which might be related.
-[ ] Go through everything flagged in Feedly for this talk.
-[ ] Go through FOSS4G slide deck list.
-[ ] Create Docker slides, and pick which dockerfiles to use
+- [ ] Create a jupyter notebook script to download the demo data.
+- [ ] Create vagrant slides.
+- [ ] Think about what NodeRed examples to include.
+- [ ] Is there an Inkscape automation article to include?
+- [ ] Look through to see if there are any other conversion tools to list.
+- [ ] Go through the full list of listicles, alternatives, etc. on Opensource.com for related content.
+- [ ] Go through my Chrome bookmarks and add anything here which might be related.
+- [ ] Go through everything flagged in Feedly for this talk.
+- [ ] Go through FOSS4G slide deck list.
+- [ ] Create Docker slides, and pick which dockerfiles to use
 
 ## The contents
 
