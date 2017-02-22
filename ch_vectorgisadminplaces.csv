@@ -1,0 +1,112 @@
+OBJECTID,TYPE,NAME,RECPARK,RECPARKID,SCHOOL,SHORTNAME,ADDR,ZIP,CRIT,geo_shape,geo_point_2d,
+6,FIRE,Orange New Hope Fire Station 1,0,0,,,4012 WHITFIELD RD,,,"{""type"": ""Point"", ""coordinates"": [-79.02936447301734, 35.97803278562654]}",35.9780327856,-79.029364473
+10,FIRE,Chapel Hill Fire Station 5,0,0,,,US 15-501,,,"{""type"": ""Point"", ""coordinates"": [-79.06007861274661, 35.8851335143184]}",35.8851335143,-79.0600786127
+11,SCHOOL,McDougle Middle School,0,0,M,McDougle,890 Old Fayetteville Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09860428520834, 35.92820583305594]}",35.9282058331,-79.0986042852
+14,PARK,Anderson Park,1,2,,,302 NC 54 W,27516,,"{""type"": ""Point"", ""coordinates"": [-79.10508614857709, 35.924139561744475]}",35.9241395617,-79.1050861486
+15,SHOP,Carrboro Plaza,0,0,,,104 NC 54,27510,,"{""type"": ""Point"", ""coordinates"": [-79.0960309607965, 35.91657518824197]}",35.9165751882,-79.0960309608
+17,SCHOOL,Carrboro Elementary School,1,3,E,Carrboro,400 Shelton St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07795817557883, 35.914954872386446]}",35.9149548724,-79.0779581756
+28,CHURCH,St Paul AME Church,0,0,,,101 Merritt Mill Rd,27510,,"{""type"": ""Point"", ""coordinates"": [-79.0654989856737, 35.910070202483475]}",35.9100702025,-79.0654989857
+31,CHURCH,Baptist Heritage Church,0,0,,,832 Smith Level Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.0834049981423, 35.88535318918265]}",35.8853531892,-79.0834049981
+32,SHOP,Arts Center,0,0,,,300 E Main St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.06841412582025, 35.91002014972209]}",35.9100201497,-79.0684141258
+42,SCHOOL,Phillips Middle School,0,0,M,Phillips,606 N Estes Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.04643614083402, 35.93588461910396]}",35.9358846191,-79.0464361408
+61,UTILITY,Cell Tower,0,0,,,200 Redfoot Run Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09145501748344, 35.94861059209922]}",35.9486105921,-79.0914550175
+66,UTILITY,Bridge,0,0,,,Homestead Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.08543783077641, 35.94298300658755]}",35.9429830066,-79.0854378308
+69,UTILITY,Cell Tower,0,0,,,515 S Greensboro St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.06987580810576, 35.902510932711]}",35.9025109327,-79.0698758081
+70,UTILITY,OWASA,0,0,,,8111 Old NC 86,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.11408929566888, 35.95687126631552]}",35.9568712663,-79.1140892957
+73,MEDICAL,Orange-Chatham Health Center,0,0,,,300 Lloyd St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.06973169916346, 35.91324968164491]}",35.9132496816,-79.0697316992
+74,MEDICAL,EMS,0,0,,,202 Roberson St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07079028186021, 35.909552603341595]}",35.9095526033,-79.0707902819
+84,CEMETERY,Chapel Hill Cemetery,0,0,,,1721 Legion Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.01429272414481, 35.94257678413965]}",35.9425767841,-79.0142927241
+94,CEMETERY,Old UNC Cemetery,0,0,,,401 South Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.04442731997626, 35.9107734646556]}",35.9107734647,-79.04442732
+95,PARK,Botanical Garden,0,0,,,700 Laurel Hill Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.0340759527041, 35.89901502293238]}",35.8990150229,-79.0340759527
+105,UTILITY,Water Treatment Plant,0,0,,,170 Old Mason Farm Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.02514281127321, 35.896730376814446]}",35.8967303768,-79.0251428113
+109,PARK,Umstead Park,0,0,,,351 Umstead Dr,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06332072015918, 35.92125646607583]}",35.9212564661,-79.0633207202
+111,POLICE,Carrboro Police Department,,,,,100 N. Greensboro St.,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07198302562715, 35.9105501565292]}",35.9105501565,-79.0719830256
+1,FIRE,Carrboro Fire Station,0,0,,,301 W MAIN ST,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07782062948908, 35.91189544235205]}",35.9118954424,-79.0778206295
+4,FIRE,Chapel Hill Fire Station 3,0,0,,,1615 E FRANKLIN ST,,,"{""type"": ""Point"", ""coordinates"": [-79.03010019869349, 35.93498783422555]}",35.9349878342,-79.0301001987
+5,FIRE,Chapel Hill Fire Station 4,0,0,,,1695 AIRPORT RD,,,"{""type"": ""Point"", ""coordinates"": [-79.05906247348473, 35.963698425786056]}",35.9636984258,-79.0590624735
+9,FIRE,Orange New Hope Fire Station 2,0,0,,,NC HIGHWAY 86,,,"{""type"": ""Point"", ""coordinates"": [-79.07053006882218, 36.014415021430416]}",36.0144150214,-79.0705300688
+18,SHOP,Carr Mill Mall,0,0,,,200 N Greensboro St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.07123003942696, 35.91148351537799]}",35.9114835154,-79.0712300394
+22,PARK,University Lake,0,0,,,115 University Lake Rd,27510,,"{""type"": ""Point"", ""coordinates"": [-79.09272921051631, 35.89820547156403]}",35.8982054716,-79.0927292105
+23,PARK,Wilson Park,1,6,,,101 Williams St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.07572480539451, 35.91922406641669]}",35.9192240664,-79.0757248054
+25,SHOP,Willow Creek Shopping Center,0,0,,,602 Jones Ferry Rd,27510,,"{""type"": ""Point"", ""coordinates"": [-79.08923673611048, 35.90666746315238]}",35.9066674632,-79.0892367361
+36,SCHOOL,Smith Middle School,0,0,M,Smith,9201 Seawell School Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.07707803761603, 35.94268163525502]}",35.9426816353,-79.0770780376
+46,SCHOOL,East Chapel Hill High School,0,0,H,ECHHS,500 Weaver Dairy Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.02972584599222, 35.960928953799495]}",35.9609289538,-79.029725846
+47,SCHOOL,Ephesus Elementary School,0,0,E,Ephesus,1495 Ephesus Church Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.01607221054226, 35.93362341341157]}",35.9336234134,-79.0160722105
+51,SCHOOL,Carrboro High School,0,0,H,CHS,201 Rock Haven Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.08513566780529, 35.89181156853548]}",35.8918115685,-79.0851356678
+52,SCHOOL,Elementary School 10,0,0,E,ES10,215 Eubanks Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.10203602208306, 35.96685478715338]}",35.9668547872,-79.1020360221
+54,FIRE,New Fire Station,0,0,,,1309 Homestead Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.08330905530478, 35.945672310237754]}",35.9456723102,-79.0833090553
+57,PUBLIC,Carrboro Post Office,0,0,,,1500 W Main St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.0937405920466, 35.918630234294476]}",35.9186302343,-79.093740592
+63,UTILITY,Dam,0,0,,,130 University Lake Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.09224492973092, 35.89684789097431]}",35.896847891,-79.0922449297
+65,UTILITY,Bridge,0,0,,,Lake Hogan Farm Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09775192637143, 35.9503654932664]}",35.9503654933,-79.0977519264
+67,UTILITY,Bridge,0,0,,,Smith Level Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.0742492820534, 35.899774716904936]}",35.8997747169,-79.0742492821
+75,REST HOME,UCC Living Center,0,0,,,103 Culbreth Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.07478774898863, 35.89414367742014]}",35.8941436774,-79.074787749
+81,UTILITY,Horace Williams Airport,0,0,,,1001 ESTES DR,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06156369489693, 35.93363911115061]}",35.9336391112,-79.0615636949
+86,SHOP,Eastgate Mall,0,0,,,1800 E Franklin St,27514,,"{""type"": ""Point"", ""coordinates"": [-79.02502983828506, 35.935206274222146]}",35.9352062742,-79.0250298383
+93,MEDICAL,UNC Hosital,0,0,,,101 Manning Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.0506855411912, 35.90432500278923]}",35.9043250028,-79.0506855412
+99,SHOP,Meadowmont,0,0,,,116 W Barbee Chapel Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.01019195227819, 35.9062299256802]}",35.9062299257,-79.0101919523
+103,PUBLIC,Lincoln Center,0,0,,,750 S Merritt Mill Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06823294795637, 35.90331851294564]}",35.9033185129,-79.068232948
+106,SHOP,Southern Village,0,0,,,620 Market St,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06613875138521, 35.881577788804066]}",35.8815777888,-79.0661387514
+13,PARK,Martin Luther King Park,1,1,,,1120 Hillsborough Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.09003210273505, 35.92624245517226]}",35.9262424552,-79.0900321027
+16,LIBRARY,Carrboro Library,0,0,,,890 Old Fayetteville Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.09877429424354, 35.92916078039711]}",35.9291607804,-79.0987742942
+20,PUBLIC,Carrboro Town Hall,0,0,,,301 W Main St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07770535770076, 35.91146900585321]}",35.9114690059,-79.0777053577
+26,PUBLIC,Carrboro Public Works,0,0,,,100 Public Works Dr,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07475749985848, 35.90098664655873]}",35.9009866466,-79.0747574999
+33,CEMETERY,Old Cemetery,0,0,,,100 Hargraves St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.06884204978415, 35.909153163485115]}",35.9091531635,-79.0688420498
+34,CEMETERY,Westwood Cemetery,0,0,,,401 Davie Rd,27510,,"{""type"": ""Point"", ""coordinates"": [-79.0836835370447, 35.91090624291794]}",35.9109062429,-79.083683537
+37,SCHOOL,Seawell Elementary School,0,0,E,Seawell,9115 Seawell School Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.07855690596799, 35.940519553154864]}",35.9405195532,-79.078556906
+38,SCHOOL,Frank Porter Graham Elementary,0,0,E,FPG,101 Smith Level Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.07184029834937, 35.89991389231294]}",35.8999138923,-79.0718402983
+40,PARK,Brewer's Lane Mini Park,1,8,,,102 Hargraves St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.06817304118684, 35.908403312003294]}",35.908403312,-79.0681730412
+41,SCHOOL,Estes Elementary School,0,0,E,Estes Hills,500 N Estes Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.04346126891235, 35.93614839593181]}",35.9361483959,-79.0434612689
+43,SCHOOL,Scroggs Elementary School,0,0,E,Scroggs,501 Kildaire Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06845376138824, 35.87942949247316]}",35.8794294925,-79.0684537614
+45,PARK,Smith Soccer Field,1,10,,,1309 Homestead Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.08266843180331, 35.94409432010373]}",35.9440943201,-79.0826684318
+48,SCHOOL,Glenwood Elementary School,0,0,E,Glenwood,2 Prestwick Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.02667205180776, 35.90636788354825]}",35.9063678835,-79.0266720518
+53,PUBLIC,New Public Works Site,0,0,,,7917 Old NC 86,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.1082495634401, 35.960894692107644]}",35.9608946921,-79.1082495634
+58,UTILITY,Duke Power Substation,0,0,,,James St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.0943617293715, 35.920851958888335]}",35.9208519589,-79.0943617294
+64,UTILITY,Dam,0,0,,,Lake Hogan Farms,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.10001325147577, 35.94920164469169]}",35.9492016447,-79.1000132515
+68,UTILITY,Bridge,0,0,,,Jones Ferry Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09725157804414, 35.90290993962335]}",35.9029099396,-79.097251578
+72,MEDICAL,Carrboro Family Medical,0,0,,,610 Jones Ferry Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.08961080798717, 35.90548406712527]}",35.9054840671,-79.089610808
+76,REST HOME,UCC Assisted Living,0,0,,,405 Smith Level Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.07640409614338, 35.894262231714926]}",35.8942622317,-79.0764040961
+78,REST HOME,Carolina Spring,0,0,,,600 W Poplar St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.09360900970493, 35.91339147231147]}",35.9133914723,-79.0936090097
+83,PUBLIC,Chapel Hill Town Hall,0,0,,,405 Martin Luther King Jr Blvd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.0573752620755, 35.916595129948035]}",35.9165951299,-79.0573752621
+85,SHOP,Rams Head Plaza,0,0,,,1728 Fordham Blvd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.02072081798596, 35.93734755459886]}",35.9373475546,-79.020720818
+87,SHOP,Village Plaza,0,0,,,101 S Elliott Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.027608497173, 35.93452435922215]}",35.9345243592,-79.0276084972
+90,PUBLIC,Community Center,0,0,,,120 S Estes Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.03265795763464, 35.92573996206667]}",35.9257399621,-79.0326579576
+102,PUBLIC,Hargraves Community Center,0,0,,,216 N Roberson St,27516,,"{""type"": ""Point"", ""coordinates"": [-79.0635013411742, 35.91315162240522]}",35.9131516224,-79.0635013412
+7,FIRE,White Cross Fire Station,0,0,,,5722 OLD GREENSBORO RD,,,"{""type"": ""Point"", ""coordinates"": [-79.21714447450702, 35.8956956049432]}",35.8956956049,-79.2171444745
+8,FIRE,Orange Grove Fire Station,0,0,,,6800 ORANGE GROVE RD,,,"{""type"": ""Point"", ""coordinates"": [-79.19341289772375, 35.98002982355158]}",35.9800298236,-79.1934128977
+21,PARK,Town Commons,1,5,,,301 W Main St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.07748291955217, 35.91089400430894]}",35.9108940043,-79.0774829196
+24,PARK,Baldwin Park,1,7,,,400 Broad St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.06813865073607, 35.91445182686247]}",35.9144518269,-79.0681386507
+35,SCHOOL,Chapel Hill High School,0,0,H,CHHS,1709 High Schools Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.08018579353775, 35.94650699099436]}",35.946506991,-79.0801857935
+39,SCHOOL,Culbreth Middle School,0,0,M,Culbreth,225 Culbreth Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06736843341079, 35.89021022227726]}",35.8902102223,-79.0673684334
+44,PARK,Simpson Street Mini Park,1,9,,,219 Simpson St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.09088796826403, 35.917245379569444]}",35.9172453796,-79.0908879683
+49,SCHOOL,Rashkis Elemtentary School,0,0,E,Rashkis,601 Meadowmont Ln,27517,,"{""type"": ""Point"", ""coordinates"": [-79.00851804716368, 35.91406626296895]}",35.914066263,-79.0085180472
+50,PARK,Adams Property,1,11,,,207 Estes Dr,27510,,"{""type"": ""Point"", ""coordinates"": [-79.07349017967616, 35.922305073412566]}",35.9223050734,-79.0734901797
+55,SHOP,Chapel Hill North,0,0,,,1860 Airport Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.05854008289536, 35.9683254376017]}",35.9683254376,-79.0585400829
+56,SHOP,Timberlyne,0,0,,,1129 Weaver Dairy Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.05363348793219, 35.96228440010872]}",35.9622844001,-79.0536334879
+59,UTILITY,Bell South Telephone,0,0,,,625 Old Fayetteville Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.09948662778719, 35.91761940375265]}",35.9176194038,-79.0994866278
+71,MEDICAL,Dialysis Center,0,0,,,105 Renee Lynne Ct,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.08082527094061, 35.890644287136794]}",35.8906442871,-79.0808252709
+80,PARK,Homestead Park,0,0,,,100 Homestead Park Dr,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06202571159601, 35.954606858885484]}",35.9546068589,-79.0620257116
+82,POLICE,Chapel Hill Police Station,0,0,,,828 Martin Luther King Jr Blvd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.05290191704228, 35.92688120310701]}",35.9268812031,-79.052901917
+89,SHOP,University Mall,0,0,,,201 S Estes Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.02748841433511, 35.92787048706179]}",35.9278704871,-79.0274884143
+91,SHOP,University Square,0,0,,,133 W Franklin St,27516,,"{""type"": ""Point"", ""coordinates"": [-79.05755798757592, 35.91192774217142]}",35.9119277422,-79.0575579876
+96,SHOP,Glenwood Square,0,0,,,1200 Raleigh Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.02615253130695, 35.90769995837525]}",35.9076999584,-79.0261525313
+97,SHOP,Glen Lennox,0,0,,,1201 Raleigh Rd,27517,,"{""type"": ""Point"", ""coordinates"": [-79.02552735003952, 35.909068640895974]}",35.9090686409,-79.02552735
+101,PUBLIC,Dean Smith Center,0,0,,,300 Skipper Bowles Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.04366121507867, 35.89948245575595]}",35.8994824558,-79.0436612151
+104,PUBLIC,Chapel Hill Public Works,0,0,,,7000 Mill House Rd,27516,,"{""type"": ""Point"", ""coordinates"": [-79.07447237881775, 35.97804527148871]}",35.9780452715,-79.0744723788
+108,PARK,Jones Park,0,0,,,300 Purefoy Rd,27514,,"{""type"": ""Point"", ""coordinates"": [-79.05505470624082, 35.897025962448666]}",35.8970259624,-79.0550547062
+110,PARK,Twin Creeks Park,0,0,,,7906 Old NC 86,27516,,"{""type"": ""Point"", ""coordinates"": [-79.10190991724345, 35.963191557222665]}",35.9631915572,-79.1019099172
+2,FIRE,Chapel Hill Fire Station 1,0,0,,,306 N COLUMBIA ST,,,"{""type"": ""Point"", ""coordinates"": [-79.0571518703455, 35.915864240855946]}",35.9158642409,-79.0571518703
+3,FIRE,Chapel Hill Fire Station 2,0,0,,,1003 S HAMILTON RD,,,"{""type"": ""Point"", ""coordinates"": [-79.02346325206388, 35.906919804737775]}",35.9069198047,-79.0234632521
+12,SCHOOL,McDougle Elementary School,0,0,E,McDougle,900 Old Fayetteville Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09885783689921, 35.929814263889384]}",35.9298142639,-79.0988578369
+19,PUBLIC,Century Center,1,4,,,100 N Greensboro St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.07204025536609, 35.910765578336566]}",35.9107655783,-79.0720402554
+27,UTILITY,OWASA,0,0,,,400 Jones Ferry Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.08015486049231, 35.90856830555515]}",35.9085683056,-79.0801548605
+29,CHURCH,Church of God,0,0,,,102 Boyd St,27510,,"{""type"": ""Point"", ""coordinates"": [-79.0667551535255, 35.91012182706058]}",35.9101218271,-79.0667551535
+30,CHURCH,Carrboro United Methodist Church,0,0,,,200 Hillsborough Rd,27510,,"{""type"": ""Point"", ""coordinates"": [-79.07938327375926, 35.91421292859132]}",35.9142129286,-79.0793832738
+60,UTILITY,Cell Tower,0,0,,,625 Old Fayetteville Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.10041476683611, 35.9178911780328]}",35.917891178,-79.1004147668
+62,UTILITY,Cell Tower,0,0,,,301 W Main St,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.0778579951765, 35.91168128162131]}",35.9116812816,-79.0778579952
+77,REST HOME,Willow Springs Health Care,0,0,,,624 Jones Ferry Rd,27510,Y,"{""type"": ""Point"", ""coordinates"": [-79.09069327021994, 35.904540470762264]}",35.9045404708,-79.0906932702
+79,UTILITY,Water Tower,0,0,,,1004 Old Fayetteville Rd,27516,Y,"{""type"": ""Point"", ""coordinates"": [-79.09988061729008, 35.93069142124852]}",35.9306914212,-79.0998806173
+88,LIBRARY,Chapel Hill Library,0,0,,,100 Library Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.03590698948264, 35.932233260793126]}",35.9322332608,-79.0359069895
+92,PUBLIC,UNC Campus,0,0,,,,,,"{""type"": ""Point"", ""coordinates"": [-79.05025481673118, 35.91037612484127]}",35.9103761248,-79.0502548167
+98,PUBLIC,Friday Center,0,0,,,100 Friday Center Dr,27517,,"{""type"": ""Point"", ""coordinates"": [-79.0122676244316, 35.89975771001149]}",35.89975771,-79.0122676244
+100,PUBLIC,Kenan Stadium,0,0,,,104 Stadium Dr,27514,,"{""type"": ""Point"", ""coordinates"": [-79.0475380351183, 35.90678969007452]}",35.9067896901,-79.0475380351
+107,PARK,Southern Community Park,0,0,,,1300 US HWY 15-501 S,27516,,"{""type"": ""Point"", ""coordinates"": [-79.06805639680493, 35.8747811692836]}",35.8747811693,-79.0680563968
