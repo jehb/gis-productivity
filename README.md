@@ -4,6 +4,21 @@ This repository is for keeping track of various things related to [my talk](http
 
 The talk was originally pitched as a modification to the talk given by me and Jen Wike Huger at All Things Open in 2016, entitled [Open Source Productivity Hacks](https://github.com/jehb/productivity-hacks). It has since diverged pretty significantly from that presentation, but I'm linking it here in case you'd like to see those slides or have a follow-up that might be better answered there.
 
+## Work in progress
+
+This is not a finished product. It never will be. There will always be new things to add and update. Here are some things I hope to do before I present this:
+
+- [ ] Create a jupyter notebook script to download the demo data.
+- [ ] Create vagrant slides.
+- [ ] Think about what NodeRed examples to include.
+- [ ] Is there an Inkscape automation article to include?
+- [ ] Look through to see if there are any other conversion tools to list.
+- [ ] Go through the full list of listicles, alternatives, etc. on Opensource.com for related content.
+- [ ] Go through my Chrome bookmarks and add anything here which might be related.
+- [ ] Go through everything flagged in Feedly for this talk.
+- [ ] Go through FOSS4G slide deck list.
+- [ ] Create Docker slides, and pick which dockerfiles to use
+
 ## The contents
 
 * README.md: You're reading it now. This is an outline of my talk.
@@ -53,6 +68,7 @@ I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is m
 
 ### Working with data at the command line
 
+* [Adventures in /usr/bin and the likes](https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
 * http://bconnelly.net/working-with-csvs-on-the-command-line/
 * http://www.drbunsen.org/explorations-in-unix/
 * Advanced tools for data science at the command line: http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
