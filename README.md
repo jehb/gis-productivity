@@ -90,11 +90,29 @@ I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is m
   * $ head -n 2 ch_vectorgisadminplaces.csv
 * wc - get a word count
   * $ wc -l ch_vectorgisadminplaces.csv
-* grep - find anything, anywhere
-  * $ grep -i "library" ch_vectorgisadminplaces.csvS
+* grep - find anything, anywhere. Regular expressions!
+  * $ grep -i "library" ch_vectorgisadminplaces.csv
+* tr - translate any character to another character
+  * $ grep -i "school" ch_vectorgisadminplaces.csv | tr ',' '\t' > schools.tsv
+* sort - organize any tablular data by any column
+  * $ sort -nr -t$'\t' -k9 schools.tsv
+* sed - stream editor, replace anything with anything
+  * $ sed '1 d' ch_vectorgisadminplaces.csv > ch_no_headers.csv 
+* cut - slicing by column
+  * $ cut -d',' -f3 ch_vectorgisadminplaces.csv > places.txt
+* uniq - find duplicates, and more
+  * $ sort places.txt | uniq -c > places_uniq.txt
+* awk - more find and replace, but very powerful, with find and replace.
+  * $ awk -F "," '{print $3","$(NF-1)","$NF}' ch_vectorgisadminplaces.csv > places_x_y.csv
+
+* if latlong is good enough for your project, all of the data manipulation we just showed can work for that too! Requires: some mathematical enthusiasm.
 * We're not stuck with just tabular data. For images, there's ffmpeg, PIL, ImageMagick (GraphicsMagick), Scribus, etc, to look at on top of GIS suites.
 
 ### Node-RED
+* Connect any data source to any data source with some processing in between.
+* Built on NodeJS, so it's helpful to known JavaScript, but not essential.
+* Build a web app, a twitter bot, or a robot using a Raspberry Pi, all from one drag-drop platform.
+* Can use any underlying resources or programs on your machine or elsewhere in the world.
 
 ## Resources
 
