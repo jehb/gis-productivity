@@ -55,8 +55,15 @@ I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is m
 
 * http://www.townofchapelhill.org/town-hall/departments-services/planning-and-sustainability/gis-analytics/download-gis-data
 
-## Links you ought to explore
+## Resources
 
+* [Vagrant Getting Started Guide](https://www.vagrantup.com/docs/getting-started/)
+* [Leaflet Quick Start Guide](http://leafletjs.com/examples/quick-start/)
+* [Jupyter Notebook Documentation](https://jupyter.readthedocs.io/en/latest/index.html)
+* [Jupyter minimal-notebook Dockerfile](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook)
+* [Command-line tools for data analysis in Linux](https://opensource.com/article/17/2/command-line-tools-data-analysis-linux)
+* [Useful Unix commands for data science](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
+* [Working with CSVs on the Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/)
 * https://github.com/ncsu-geoforall-lab
 * A good example of a GIS Dockerfile: https://github.com/wenzeslaus/geospatial-modeling-course-jupyter/blob/master/Dockerfile
 
