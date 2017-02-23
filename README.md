@@ -47,13 +47,14 @@ I do, however, use a lot of other open source tools in my GIS workflow, and I th
 * Jupyter notebooks
 * A chatbot (Because I sometimes work with other people, but mostly because it's mildly entertaining).
 
-## Pick a sample spot
+## Sample data
 
 One of the things I picked up when I was in grad school for learning new tools is to have one data set you're intimately familiar with, so you can quickly try out new tools, see how they work, and if they're for you. If you went through a MS or PhD program, or if you're the data manager for a particular geographic region, this will come easy to you.
 
 I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is my own neighbhorhood in Chapel Hill. 
 
-* http://www.townofchapelhill.org/town-hall/departments-services/planning-and-sustainability/gis-analytics/download-gis-data
+* [Town of Chapel Hill GIS](http://www.townofchapelhill.org/town-hall/departments-services/planning-and-sustainability/gis-analytics/download-gis-data)
+* [Chapel Hill Open Data Portal](https://www.chapelhillopendata.org/page/home1/)
 
 ## Resources
 
