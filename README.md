@@ -1,5 +1,7 @@
 # GIS Productivity Hacks
 
+_Note: If you missed this talk earlier today from Walk Gurley on QGIS, TopoJSON, and D3, go check out out: go.ncsu.edu/ncgis2017 -- it's another great workflow for doing GIS with open source tools._
+
 This repository is for keeping track of various things related to [my talk](https://event.crowdcompass.com/ncgis2017/activity/rqq4MnEiRT) at the [NC GIS Conference](http://www.ncgisconference.com/) on February 23, 2017 in Raleigh, NC.
 
 The talk was originally pitched as a modification to the talk given by me and Jen Wike Huger at All Things Open in 2016, entitled [Open Source Productivity Hacks](https://github.com/jehb/productivity-hacks). It has since diverged pretty significantly from that presentation, but I'm linking it here in case you'd like to see those slides or have a follow-up that might be better answered there.
