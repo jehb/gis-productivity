@@ -16,8 +16,8 @@ Great, send me a pull request! I'd love to make this presentation better. I'd al
 * [ ] install.sh: Configure that vagrant machine image.
 * [ ] ch_vectorgisadminplaces.csv: Some downloaded sample data from the Chapel Hill Open Data portal, in case I don't have connectivity when I present this.
 * [ ] node-red-sample-flow.json: Let's show off Node-RED.
-* [ ] *.ipynb: It's a sample Python Jupyter notebook.
-* [ ] Slides? They'll end up here. For now, see, [Open Source Productivity Hacks](https://github.com/jehb/productivity-hacks)
+* [ ] download_sample_data.ipynb: It's a sample Python Jupyter notebook.
+* [ ] dir: slides see also: [Open Source Productivity Hacks](https://github.com/jehb/productivity-hacks)
 
 ## The premise
 
@@ -59,6 +59,42 @@ I do a lot of urban planning advocacy, so a dataset I'm prety familiar with is m
 * [Town of Chapel Hill GIS](http://www.townofchapelhill.org/town-hall/departments-services/planning-and-sustainability/gis-analytics/download-gis-data)
 * [Chapel Hill Open Data Portal](https://www.chapelhillopendata.org/page/home1/)
 * [NC Voter Data](https://s3.amazonaws.com/dl.ncsbe.gov/data/) - lacking a better option, I use this a lot for address-level demographics, and person/place matching.
+
+## What I want to show you:
+
+* Why does repeatability matter?
+
+### Vagrant: launch vagrant w/ --provider virtualbox
+* What is vagrant? What is virtualization?
+* Run "any" platform, from any platform, repeatably.
+* Show the Vagrantfile, the .sh
+* What is a configuration management tool?
+
+### Docker:
+* What is Docker? Why Docker?
+* Great for immutable infrastructure & stateless applications.
+* Run "any" Linux on "any" Linux"
+* At scale, needs orchestration tools: I'm partial to Kubernetes
+* Run this command: docker run -it --rm -p 8888:8888 jupyter/minimal-notebook
+* Look at the source: curl -O https://raw.githubusercontent.com/jupyter/docker-stacks/master/minimal-notebook/Dockerfile
+* Wasn't that fast?
+
+### Jupyter Notebook:
+* Documentation and code together, great for learning, great for sharing.
+* Show downloading data:
+
+### Command line data manipulation
+* Data is from here: https://www.chapelhillopendata.org/explore/dataset/ch_vectorgisadminplaces/
+* head and tail - show part of a data file
+  * $ tail -n 3 ch_vectorgisadminplaces.csv
+  * $ head -n 2 ch_vectorgisadminplaces.csv
+* wc - get a word count
+  * $ wc -l ch_vectorgisadminplaces.csv
+* grep - find anything, anywhere
+  * $ grep -i "library" ch_vectorgisadminplaces.csvS
+* We're not stuck with just tabular data. For images, there's ffmpeg, PIL, ImageMagick (GraphicsMagick), Scribus, etc, to look at on top of GIS suites.
+
+### Node-RED
 
 ## Resources
 

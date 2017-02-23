@@ -13,7 +13,7 @@ dnf install npm -y
 
 npm install -g --unsafe-perm node-red
 
-# We also want QGIS and Docker, and Cowsay, because everybody loves Cowsay.
+# We also want QGIS, ImageMagick, and Docker, and Cowsay, because everybody loves Cowsay.
 #  ____________________
 # < Everybody loves me >
 #  --------------------
@@ -24,7 +24,7 @@ npm install -g --unsafe-perm node-red
 #                 ||     ||
 
 
-dnf install qgis docker cowsay -y
+dnf install ImageMagick qgis docker cowsay -y
 
 # And then, let's use pip (the python installer) to install Jupyter Notebooks
 
